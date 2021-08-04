@@ -1,4 +1,10 @@
-# Which LVMH brands are the most rapped about?
+# Sample Cacicazgo Code
+
+## Cacicazgo is a data analytics blog where we analyze trends and topics in the urban community and provide insight through our findings. All of our posts can be found in our Instagram: @thecacicazgo as well as our website: thecacicazgo.com
+
+### Below is two sample code from Cacicazgo 
+
+### #1: LVMH Brands and Rappers
 
 Using Spotify streaming data and the Rap Genius API, we can see what LVMH brands are being mentioned in the top streamed rap songs of the last 4 years.
 
