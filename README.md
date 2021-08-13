@@ -2,7 +2,7 @@
 
 ## Cacicazgo is a data analytics blog where we analyze trends and topics in the urban community and provide insight through our findings. All of our posts can be found in our Instagram: @thecacicazgo as well as our website: thecacicazgo.com
 
-### Below is two sample code from Cacicazgo 
+### Below is sample code from our latest post on Cacicazgo 
 
 ### #1: LVMH Brands and Rappers
 
@@ -12,3 +12,9 @@ We take a deep dive into Louis-Vuitton Moet Hennessy (LVMH): the luxury powerhou
 
 
 The attached Python notebook walks through how we gathered the Spotify streaming data along with the Genius API data in order to get the lyrics from these rap songs and tie them back to LVMH brands. 
+
+Genius API: https://lyricsgenius.readthedocs.io/en/master/
+
+Spotify API: https://spotipy.readthedocs.io/en/2.16.0/?highlight=artist_top_tracks#api-reference
+
+Spotify Charts: spotifycharts.com
