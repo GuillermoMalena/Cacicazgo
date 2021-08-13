@@ -15,6 +15,6 @@ The attached Python notebook walks through how we gathered the Spotify streaming
 
 Genius API: https://lyricsgenius.readthedocs.io/en/master/
 
-Spotify API: https://spotipy.readthedocs.io/en/2.16.0/?highlight=artist_top_tracks#api-reference
+Spotify API: https://spotipy.readthedocs.io/en/2.19.0/
 
 Spotify Charts: spotifycharts.com
